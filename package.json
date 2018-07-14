@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description":
     "I use these technology stacks: React, Redux, React-redux, Redux-saga, Dialogflow",
-  "keywords": ["redux-saga", "react", "redux", "react-redux", "chat"],
+  "keywords": ["react", "redux", "redux-saga", "react-redux", "dialogflow", "chat", "bot", "chatbot"],
   "main": "src/index.js",
   "dependencies": {
     "api-ai-javascript": "2.0.0-beta.21",
